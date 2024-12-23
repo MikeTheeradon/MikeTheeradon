@@ -1,6 +1,5 @@
 - Hi, I’m Mike
-- I’m currently learning software testing
-- I'm looking for a software tester job
+- I’m currently learning software testing and I'm looking for a software tester job
 
 <!---
 MikeTheeradon/MikeTheeradon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
